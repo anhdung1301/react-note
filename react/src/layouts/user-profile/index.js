@@ -299,7 +299,7 @@ const UserProfile = () => {
           </MDBox>
         </MDBox>
       </Header>
-      <Footer />
+
     </DashboardLayout>
   );
 };

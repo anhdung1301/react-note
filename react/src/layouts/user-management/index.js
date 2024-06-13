@@ -63,7 +63,6 @@ const UserManagement = () => {
           </Grid>
         </Grid>
       </MDBox>
-      <Footer />
     </DashboardLayout>
   );
 };
